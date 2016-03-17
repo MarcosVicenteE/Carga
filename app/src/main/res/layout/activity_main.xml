@@ -9,9 +9,6 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="tabbar.example.com.probacarga.MainActivity">
-
-    <!--Para que empece dende abaixo poñolle un progess moi grande,
-    vai de 0 a 100 sendo 100 visible e 0 opaco-->
     <com.mikhaellopez.circularfillableloaders.CircularFillableLoaders
         android:id="@+id/circularFillableLoaders"
         android:layout_width="wrap_content"
